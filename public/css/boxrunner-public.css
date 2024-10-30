@@ -1,0 +1,14 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+#shipping_method {
+    text-align: left !important;
+}
+#shipping_method .amount{
+   font-size: 13px !important;
+}
+
+#shipping_method label{
+   font-size: 13px !important;
+}
